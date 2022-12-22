@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33110.190
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MQ_Publisherr", "MQ_Publisherr\MQ_Publisherr.csproj", "{E3CB3E20-7D21-4917-8AC6-4D6C33EADAF8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MQ_Consumer", "MQ_Consumer\MQ_Consumer.csproj", "{7C7AD601-CDBC-4E64-9DB2-BCE1D42B8C27}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E3CB3E20-7D21-4917-8AC6-4D6C33EADAF8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E3CB3E20-7D21-4917-8AC6-4D6C33EADAF8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E3CB3E20-7D21-4917-8AC6-4D6C33EADAF8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E3CB3E20-7D21-4917-8AC6-4D6C33EADAF8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7C7AD601-CDBC-4E64-9DB2-BCE1D42B8C27}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7C7AD601-CDBC-4E64-9DB2-BCE1D42B8C27}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7C7AD601-CDBC-4E64-9DB2-BCE1D42B8C27}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7C7AD601-CDBC-4E64-9DB2-BCE1D42B8C27}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3EB0A6FD-03E7-424E-AD7D-AF5F1D7558C8}
+	EndGlobalSection
+EndGlobal
