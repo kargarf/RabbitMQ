@@ -1,4 +1,4 @@
 # RabbitMQ
-RabbitMQ Basics using
-RabbitMQ.Client library and
+RabbitMQ Basics using </br>
+RabbitMQ.Client library and </br>
 RabbitMQ Cloud: https://www.cloudamqp.com/
